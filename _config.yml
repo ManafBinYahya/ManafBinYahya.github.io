@@ -288,7 +288,14 @@ defaults:
       author_profile: true
       share: true
 
-
+scholar:
+  style: apa
+  locale: en
+  source: _bibliography
+  bibliography: publications.bib
+  sort_by: year
+  order: descending
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
