@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Electrical and Computer Engineering**, University of Waterloo, Canada  
+  *Focus: Trust management and proactive defense for Software-Defined Wireless Sensor Networks (SDWSNs)*  
+  *Supervisor: Prof. Xuemin (Sherman) Shen*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia — 2016
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **B.S. in Computer Science and Engineering**, Aden University, Aden, Yemen — 2010
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Work Experience
+
+### Senior Research Engineer  
+**Huawei Technologies Canada Co., Ltd.** — *2022–Present*  
+- Designing networking solutions for AI and AI-driven networking  
+- Leading benchmarking and performance modeling for distributed ML systems
+
+### Research Assistant  
+**University of Waterloo** — *2016–2021*  
+- Developed trust and security frameworks for SDWSNs  
+- Member of the Broadband Communications Research (BBCR) Laboratory
+
+### Research Assistant  
+**King Fahd University of Petroleum and Minerals (KFUPM)** — *2014–2016*  
+- Worked on QoS routing and smart grid applications in WSNs  
+- Co-authored multiple peer-reviewed publications
