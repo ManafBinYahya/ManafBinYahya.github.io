@@ -28,7 +28,7 @@ redirect_from:
 
 - **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(2022–Present)*  
 
-- **Part-time Professor**, Conestoga College — *2022* 
+- **Part-time Professor**, Conestoga College — *(2022)* 
 
 - **Teaching Assistant (TA)**, University of Waterloo — *(2019-2021)*
 
