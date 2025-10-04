@@ -26,10 +26,10 @@ redirect_from:
 
 ## Work Experience
 
-- **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *2022–Present*  
+- **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(2022–Present)*  
 
 - **Part-time Professor**, Conestoga College — *2022* 
 
-- **Teaching Assistant (TA)**, University of Waterloo — *2019-2021*
+- **Teaching Assistant (TA)**, University of Waterloo — *(2019-2021)*
 
-- **Lecturer and Lab Instructor**, University of Aden — *2010-2012*
+- **Lecturer and Lab Instructor**, University of Aden — *(2010-2012)*
