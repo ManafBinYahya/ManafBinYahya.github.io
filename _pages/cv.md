@@ -16,25 +16,24 @@ redirect_from:
   *Supervisor: Xuemin (Sherman) Shen*
 
 - **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia — 2016
-	*Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances* 
-	*Supervisor: Basem Al-Madani*
+  *Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances* 
+  *Supervisor: Basem Al-Madani*
 
 - **B.S. in Computer Science and Engineering**, Aden University, Aden, Yemen — 2010
-	*First of Class Honor*
+  *First of Class Honor*
 
 ---
 
 ## Work Experience
 
 ### Senior Research Engineer  
-**Huawei Technologies Canada Co., Ltd.** — *2022–Present*  
+- *Huawei Technologies Canada Co., Ltd.* — *2022–Present*  
 
 ### Part-time Professor 
-**Conestoga College** — *2022* 
+- *Conestoga College* — *2022* 
 
 ### Teaching Assistant (TA)
-**University of Waterloo** — *2019-2021*
-
+- *University of Waterloo* — *2019-2021*
 
 ## Lecturer and Lab Instructor
-**University of Aden** — *2010-2012*
+- *University of Aden* — *2010-2012*
