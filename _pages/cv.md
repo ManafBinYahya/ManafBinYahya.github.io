@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Electrical and Computer Engineering**, University of Waterloo, Canada — 2022  
+- **Ph.D. in Electrical and Computer Engineering**, University of Waterloo, Canada — *(2017-2022)*  
   *Focus: Trust management and proactive defense for Software-Defined Wireless Sensor Networks (SDWSNs)*  
   *Supervisor: Xuemin (Sherman) Shen*
 
-- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — 2016  
+- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — *(2012-2016)*  
   *Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances*   
   *Supervisor: Basem Al-Madani*  
 
-- **B.S. in Computer Science and Engineering**, Aden University, Yemen — 2010  
+- **B.S. in Computer Science and Engineering**, Aden University, Yemen — *(2006-2010)*  
   *First of Class Honor*  
 
 ---
