@@ -11,13 +11,16 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Electrical and Computer Engineering**, University of Waterloo, Canada  
+- **Ph.D. in Electrical and Computer Engineering**, University of Waterloo, Canada — 2022  
   *Focus: Trust management and proactive defense for Software-Defined Wireless Sensor Networks (SDWSNs)*  
-  *Supervisor: Prof. Xuemin (Sherman) Shen*
+  *Supervisor: Xuemin (Sherman) Shen*
 
 - **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia — 2016
+	*Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances* 
+	*Supervisor: Basem Al-Madani*
 
 - **B.S. in Computer Science and Engineering**, Aden University, Aden, Yemen — 2010
+	*First of Class Honor*
 
 ---
 
@@ -25,15 +28,13 @@ redirect_from:
 
 ### Senior Research Engineer  
 **Huawei Technologies Canada Co., Ltd.** — *2022–Present*  
-- Designing networking solutions for AI and AI-driven networking  
-- Leading benchmarking and performance modeling for distributed ML systems
 
-### Research Assistant  
-**University of Waterloo** — *2016–2021*  
-- Developed trust and security frameworks for SDWSNs  
-- Member of the Broadband Communications Research (BBCR) Laboratory
+### Part-time Professor 
+**Conestoga College** — *2022* 
 
-### Research Assistant  
-**King Fahd University of Petroleum and Minerals (KFUPM)** — *2014–2016*  
-- Worked on QoS routing and smart grid applications in WSNs  
-- Co-authored multiple peer-reviewed publications
+### Teaching Assistant (TA)
+**University of Waterloo** — *2019-2021*
+
+
+## Lecturer and Lab Instructor
+**University of Aden** — *2010-2012*
