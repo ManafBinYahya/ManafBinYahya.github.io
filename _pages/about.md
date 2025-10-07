@@ -24,19 +24,19 @@ My research interests span data-driven networking, AI infrastructure, transport 
     <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> in Korea 🎤
   </li>
   <li>
-    <strong>🗓️ Jul 2025</strong> — Our <em>Symphony</em> paper has been accepted by  
-    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> 🎉
-  </li>
-  <li>
     <strong>🗓️ Jul 2025</strong> — <em>HiPIPE</em>, a hierarchical collective communication algorithm, was presented at  
     <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🧠
+  </li>
+  <li>
+    <strong>🗓️ Jul 2025</strong> — Our <em>Symphony</em> paper has been accepted by  
+    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> 🎉
   </li>
   <li>
     <strong>🗓️ Apr 2025</strong> — Our <em>HiPIPE</em> paper has been accepted by  
     <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🚀
   </li>
   <li>
-    <strong>🗓️ Jul 2024</strong> — <em>Config-Snob</em>, a data-driven protocol tuning system, was presented at  
+    <strong>🗓️ Jul 2024</strong> — <a href="https://www.usenix.org/conference/atc24/presentation/bin-yahya" target="_blank"><em>Config-Snob</em></a>, a data-driven protocol tuning system, was presented at  
     <a href="https://www.usenix.org/conference/atc24" target="_blank">USENIX ATC 2024</a> 🎉
   </li>
 </ul>
