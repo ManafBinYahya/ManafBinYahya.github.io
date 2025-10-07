@@ -21,23 +21,23 @@ My research interests span data-driven networking, AI infrastructure, transport 
 <ul>
   <li>
     <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system, at  
-    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> in Korea 🎤
+    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
   </li>
   <li>
-    <strong>🗓️ Jul 2025</strong> — <em>HiPIPE</em>, a hierarchical collective communication algorithm, was presented at  
-    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🧠
+    <strong>🗓️ Jul 2025</strong> — <a href="https://ieeexplore.ieee.org/abstract/document/11143446" target="_blank"><em>HiPIPE</em></a>, a hierarchical collective communication algorithm, was presented at  
+    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS</a> 2025 🧠
   </li>
   <li>
     <strong>🗓️ Jul 2025</strong> — Our <em>Symphony</em> paper has been accepted by  
-    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> 🎉
+    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP</a> 2025 🎉
   </li>
   <li>
     <strong>🗓️ Apr 2025</strong> — Our <em>HiPIPE</em> paper has been accepted by  
-    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🚀
+    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS</a> 2025 🚀
   </li>
   <li>
     <strong>🗓️ Jul 2024</strong> — <a href="https://www.usenix.org/conference/atc24/presentation/bin-yahya" target="_blank"><em>Config-Snob</em></a>, a data-driven protocol tuning system, was presented at  
-    <a href="https://www.usenix.org/conference/atc24" target="_blank">USENIX ATC 2024</a> 🎉
+    <a href="https://www.usenix.org/conference/atc24" target="_blank">USENIX ATC</a> 2024 🎉
   </li>
 </ul>
 
