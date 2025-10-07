@@ -16,11 +16,24 @@ Before my Ph.D., I received a Master’s degree in Computer Engineering from Kin
 My research interests span data-driven networking, AI infrastructure, transport protocols, WAN, DCN, WSN, distributed systems, network security, trust management, and digital forensics.
 
 
-## News
+## 🗞️ News
 
 <ul>
-  <li><strong>09.2025</strong> — I presented Symphony, a collective scheduling system, at IEEE ICNP 2025, Korea!</li>
-  <li><strong>07.2025</strong> — Symphony paper has been accepted by IEEE ICNP 2025!</li>
-  <li><strong>07.2025</strong> — HiPIPE, an hierarchical collective communication algorithm, was presented at IEEE/ACM IWQoS 2025!</li>
-  <li><strong>04.2025</strong> — HiPIPE paper has been accepted by IEEE/ACM IWQoS 2025!</li>
+  <li>
+    <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system, at  
+    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> in Korea 🎤
+  </li>
+  <li>
+    <strong>📄 Jul 2025</strong> — Our <em>Symphony</em> paper has been accepted by  
+    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP 2025</a> 🎉
+  </li>
+  <li>
+    <strong>🗓️ Jul 2025</strong> — I presented <em>HiPIPE</em>, a hierarchical collective communication algorithm, at  
+    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🧠
+  </li>
+  <li>
+    <strong>📄 Apr 2025</strong> — Our <em>HiPIPE</em> paper has been accepted by  
+    <a href="https://iwqos2025.ieee-iwqos.org/" target="_blank">IEEE/ACM IWQoS 2025</a> 🚀
+  </li>
 </ul>
+
