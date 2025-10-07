@@ -15,7 +15,7 @@ redirect_from:
   *Focus: Trust management and proactive defense for Software-Defined Wireless Sensor Networks (SDWSNs)*  
   *Supervisor: Xuemin (Sherman) Shen*
 
-- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — *(2012-2016)*  
+- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — *(2012 - 2016)*  
   *Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances*   
   *Supervisor: Basem Al-Madani*  
 

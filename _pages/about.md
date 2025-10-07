@@ -14,3 +14,20 @@ I earned my Ph.D. in Electrical and Computer Engineering from the University of 
 Before my Ph.D., I received a Master’s degree in Computer Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia, in 2016, and a B.S. in Computer Science and Engineering from Aden University, Aden, Yemen, in 2010.
 
 My research interests span data-driven networking, AI infrastructure, transport protocols, WAN, DCN, WSN, distributed systems, network security, trust management, and digital forensics.
+
+
+## News
+
+<ul>
+  <li><strong>06.12.2025</strong> — PartPacker, 3D generation with parts, has been accepted by NeurIPS 2025!</li>
+  <li><strong>06.10.2025</strong> — We released Cosmos Reason1 — now it is also a video critique model!</li>
+  <li><strong>05.31.2025</strong> — Artiscene, a 3D scene generation framework, has been accepted by CVPR 2025!</li>
+  <li><strong>05.01.2025</strong> — OneDP, a lightning-fast diffusion policy for robot manipulation, has been accepted by ICML 2025!</li>
+  <li><strong>03.31.2025</strong> — CoT-VLA, a VLA model for robot control with visual chain-of-thought reasoning, has been accepted by CVPR 2025!</li>
+  <li><strong>02.07.2025</strong> — EdgeRunner, an auto-regressive model for artistic mesh creation, has been accepted by ICLR 2025!</li>
+  <li><strong>01.06.2025</strong> — We released Cosmos Predict1, a world foundation model platform for physical AI!</li>
+  <li><strong>11.11.2024</strong> — We released Edify 3D, technology for 3D generation!</li>
+  <li><strong>08.16.2024</strong> — Our SpaceMesh, a continuous representation for manifold meshes, is accepted by SIGGRAPH ASIA 2024!</li>
+  <li><strong>07.30.2024</strong> — GenUSD was featured in Real Time Live! at SIGGRAPH 2024!</li>
+  <li><strong>10.24.2023</strong> — Neuralangelo has been named one of TIME's Best Inventions of 2023!</li>
+</ul>
