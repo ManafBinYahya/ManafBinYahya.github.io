@@ -15,7 +15,7 @@ redirect_from:
   *Focus: Trust management and proactive defense for Software-Defined Wireless Sensor Networks (SDWSNs)*  
   *Supervisor: Xuemin (Sherman) Shen*
 
-- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — *(2012 - 2016)*  
+- **M.S. in Computer Engineering**, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia — *(2012-2016)*  
   *Focus: Real-time Integration for Heterogeneous Medical Telemetry System of Smart Ambulances*   
   *Supervisor: Basem Al-Madani*  
 
@@ -28,9 +28,9 @@ redirect_from:
 
 - **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Aug. 2023 – Present)*  
 
-- **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Aug. 2022 - July 2023)*  
+- **Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Aug. 2022 - July 2023)*  
 
-- **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Feb. 2022 – July 2022)*  
+- **Associate Researcher Intern**, Huawei Technologies Canada Co., Ltd. — *(Feb. 2022 – July 2022)*  
 
 - **Part-time Professor**, Conestoga College — *(Jan. 2022 - Aug. 2022)* 
 
