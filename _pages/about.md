@@ -20,6 +20,10 @@ My research interests span data-driven networking, AI infrastructure, transport 
 
 <ul>
   <li>
+    <strong>🗓️ Sep 2025</strong> — Our <em>Harmonics</em> paper has been accepted by  
+    <a href="https://conferences.sigcomm.org/co-next/2025/" target="_blank">ACM CoNEXT</a> 2025 🎶
+  </li>
+  <li>
     <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system, at  
     <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
   </li>
