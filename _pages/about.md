@@ -25,11 +25,11 @@ My research interests span data-driven networking, AI infrastructure, transport 
   </li>
   <li>
     <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system, at  
-    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
+    <a href="https://ieeeicnp2025.pages.dev/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
   </li>
   <li>
     <strong>🗓️ Jul 2025</strong> — Our <em>Symphony</em> paper has been accepted by  
-    <a href="https://icnp2025.ieee-icnp.org/" target="_blank">IEEE ICNP</a> 2025 🎉
+    <a href="https://ieeeicnp2025.pages.dev/" target="_blank">IEEE ICNP</a> 2025 🎉
   </li>
   <li>
     <strong>🗓️ Jul 2025</strong> — <a href="https://ieeexplore.ieee.org/abstract/document/11143446" target="_blank"><em>HiPIPE</em></a>, a hierarchical collective communication algorithm, was presented at  
