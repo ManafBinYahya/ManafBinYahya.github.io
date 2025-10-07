@@ -28,6 +28,8 @@ My research interests span data-driven networking, AI infrastructure, transport 
 #  <li><strong>01.06.2025</strong> — We released Cosmos Predict1, a world foundation model platform for physical AI!</li>
 #  <li><strong>11.11.2024</strong> — We released Edify 3D, technology for 3D generation!</li>
 #  <li><strong>08.16.2024</strong> — Our SpaceMesh, a continuous representation for manifold meshes, is accepted by SIGGRAPH ASIA 2024!</li>
+  <li><strong>09.2025</strong> — I presented Symphony, a collective scheduling system, at IEEE ICNP 2025, Korea!</li>
+  <li><strong>07.2025</strong> — Symphony paper has been accepted by IEEE ICNP 2025!</li>
   <li><strong>07.2025</strong> — HiPIPE, an hierarchical collective communication algorithm, was presented at IEEE/ACM IWQoS 2025!</li>
   <li><strong>04.2025</strong> — HiPIPE paper has been accepted by IEEE/ACM IWQoS 2025!</li>
 </ul>
