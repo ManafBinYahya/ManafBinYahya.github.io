@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Senior Research Engineer at Huawei Technologies Canada Co., Ltd., where I focus on networking for AI and AI-driven networking solutions.
 
-I earned my Ph.D. in Electrical and Computer Engineering from the University of Waterloo, Ontario, Canada, under the supervision of Professor Xuemin (Sherman) Shen. My doctoral research centered on trust management and proactive defense mechanisms for Software-Defined Wireless Sensor Networks (SDWSNs), conducted as a member of the Broadband Communications Research (BBCR) Laboratory.
+I earned my Ph.D. in Electrical and Computer Engineering from the University of Waterloo, ON, Canada, under the supervision of Professor Xuemin (Sherman) Shen. My doctoral research centered on trust management and proactive defense mechanisms for Software-Defined Wireless Sensor Networks (SDWSNs), conducted as a member of the Broadband Communications Research (BBCR) Laboratory.
 
 Before my Ph.D., I received a Master’s degree in Computer Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia, in 2016, and a B.S. in Computer Science and Engineering from Aden University, Aden, Yemen, in 2010.
 
