@@ -24,7 +24,7 @@ My research interests span data-driven networking, AI infrastructure, transport 
     <a href="https://conferences.sigcomm.org/co-next/2025/" target="_blank">ACM CoNEXT</a> 2025 🎶
   </li>
   <li>
-    <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system, at  
+    <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system for multi-tenant GPU clusters, at  
     <a href="https://ieeeicnp2025.pages.dev/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
   </li>
   <li>
