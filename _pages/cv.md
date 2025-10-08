@@ -26,11 +26,11 @@ redirect_from:
 
 ## Work Experience
 
-- **Senior Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Aug. 2023 – Present)*  
+- **Senior Research Engineer**, Huawei Canada — *(Aug. 2023 – Present)*  
 
-- **Research Engineer**, Huawei Technologies Canada Co., Ltd. — *(Aug. 2022 - July 2023)*  
+- **Research Engineer**, Huawei Canada — *(Aug. 2022 - July 2023)*  
 
-- **Associate Researcher Intern**, Huawei Technologies Canada Co., Ltd. — *(Feb. 2022 – July 2022)*  
+- **Associate Researcher Intern**, Huawei Canada — *(Feb. 2022 – July 2022)*  
 
 - **Part-time Professor**, Conestoga College — *(Jan. 2022 - Aug. 2022)* 
 
