@@ -17,7 +17,7 @@ My research interests span data-driven networking, AI infrastructure, transport 
 
 ### Personal Interests
 
-Outside of research and engineering, I’m passionate about football — I love playing it, watching matches, and playing football video games whenever I get the chance. 
+Outside of research and engineering, I’m passionate about football — I love playing it ⚽, watching matches 📺, and playing football video games 🎮 whenever I get the chance. 
 
 ## 🗞️ News
 
