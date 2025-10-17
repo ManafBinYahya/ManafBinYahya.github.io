@@ -27,7 +27,7 @@ Outside of research, I’m passionate about football — I love playing it ⚽, 
     <a href="https://conferences.sigcomm.org/co-next/2025/" target="_blank">ACM CoNEXT</a> 2025 🎶
   </li>
   <li>
-    <strong>🗓️ Sep 2025</strong> — I presented <em>Symphony</em>, a collective scheduling system for multi-tenant GPU clusters, at  
+    <strong>🗓️ Sep 2025</strong> — I presented <a href="https://ieeexplore.ieee.org/document/11192450" target="_blank"><em>Symphony</em></a>, a collective scheduling system for multi-tenant GPU clusters, at  
     <a href="https://ieeeicnp2025.pages.dev/" target="_blank">IEEE ICNP</a> 2025 in Korea 🎤
   </li>
   <li>
